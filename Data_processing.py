@@ -1,3 +1,5 @@
+import sys
+sys.path.append('/host/c/Users/Junzhe/Desktop/Whole_heart_segmentation/GitHub/')
 import numpy as np
 import nibabel as nb
 import os
